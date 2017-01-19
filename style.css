@@ -1,0 +1,19 @@
+article {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px
+}
+
+p {
+    color: blue;
+    padding: 20px;
+}
+
+.red {
+    color: red;
+}
+
+#font {
+    font-family: Garamond;
+}
